@@ -1,0 +1,12 @@
+{
+    "name": "keywordswiper",
+    "version": "0.3.0",
+    "engines": {
+      "node": "14.x"
+    },
+    "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.17.1",
+      "google-ads-api": "^9.0.0"
+    }
+  }
